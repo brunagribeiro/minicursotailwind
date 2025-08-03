@@ -27,7 +27,7 @@ Para acompanhar a atividade prática, recomenda-se que você tenha instalado em 
 ## 🎨 Layout de Referência
 O layout que será reproduzido está disponível no Figma:
 
-🔗 Acessar Layout no Figma: 
+🔗 Acessar Layout no Figma: [https://encr.pw/prototipo]
 
 ---
 
