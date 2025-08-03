@@ -28,9 +28,10 @@ Para acompanhar a atividade prática, recomenda-se que você tenha instalado em 
 O layout que será reproduzido está disponível no Figma:
 
 🔗 Acessar Layout no Figma: [Protótipo](https://encr.pw/prototipo)
-🔗 Acesso às imagens do projeto: [Imagens do projeto](https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
+
+🔗 Acesso às imagens do projeto: [Imagens do projeto] (https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
 ---
-##💻 Instalação do TailwindCSS
+## 💻 Instalação do TailwindCSS
 Para instalar o TailwindCSS você precisa acessar a documentação do framework no link [TailwindCSS](https://tailwindcss.com/)
 Após é só seguir os passos:
 -  Via CLI: A maneira mais simples e rápida de começar a usar o Tailwind CSS do zero
