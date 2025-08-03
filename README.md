@@ -42,8 +42,11 @@ Após é só seguir os passos:
 -  MINICURSO
 │
 ├── src/
+
 │   ├── index.html
+
 │   └── input.css
+
 -   Abra o arquivo input.css e cole o seguinte comando:
 -   @import "tailwindcss"; 
 - 3º passo: Executando o tailwind. Esse comando serve para scanear os nossos arquivos de origem em busca de classes para construir nosso CSS.
