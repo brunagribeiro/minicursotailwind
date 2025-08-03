@@ -53,7 +53,7 @@ Após é só seguir os passos:
 - npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 - 4º passo: Começando a usar:
 - Adicione seu arquivo CSS compilado ao <head> e comece a usar as classes utilitárias do Tailwind para estilizar seu conteúdo.
-- <link href=”./output.css" rel="stylesheet">
+- < link href = " ./output.css " rel= " stylesheet " >
 
 ---
 
