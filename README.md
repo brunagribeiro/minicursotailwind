@@ -39,13 +39,12 @@ Após é só seguir os passos:
 - npm install tailwindcss @tailwindcss/cli 
 -  2º passo: Importando o Tailwind ao nosso CSS
 -  Crie a seguinte estrutura de pastas:
--  MINICURSO
-│
-├── src/
 
-│   ├── index.html
+    ├── src/
 
-│   └── input.css
+    │   ├── index.html
+
+    │   └── input.css
 
 -   Abra o arquivo input.css e cole o seguinte comando:
 -   @import "tailwindcss"; 
