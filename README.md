@@ -40,11 +40,11 @@ Dúvidas, sugestões ou problemas? Entre em contato comigo:
 
 📧 E-mail: brgribeiro@senacrs.com.br
 
-💼 LinkedIn: [https://www.linkedin.com/in/brunagoncalvesribeiro/](https://www.linkedin.com/in/brunagoncalvesribeiro/)
+💼 LinkedIn: [in/brunagoncalvesribeiro/](https://www.linkedin.com/in/brunagoncalvesribeiro/)
 
 ## 📚 Slides da Apresentação
 Você pode revisar os slides utilizados no minicurso através do link abaixo:
 
-📑 Ver Slides:
+📑 Ver Slides:[Introdução ao TailwindCSS](https://www.canva.com/design/DAGu-ax_3jo/nmnrPQ5TYGCqfkrzSsUJXg/view?utm_content=DAGu-ax_3jo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b895a8093)
 
 ---
