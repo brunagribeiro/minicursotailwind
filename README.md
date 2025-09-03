@@ -1,6 +1,6 @@
 # 🎓 Minicurso: Introdução ao TailwindCSS: Construindo uma página web sem CSS
 
-**Semana Acadêmica da Computação – SACOMP**
+
 
 Bem-vindos ao repositório oficial do minicurso **"Introdução ao TailwindCSS: Construindo uma página web sem CSS"**. Aqui você encontrará os recursos necessários para acompanhar o conteúdo teórico e prático apresentado durante o evento.
 
@@ -20,14 +20,14 @@ Para acompanhar a atividade prática, recomenda-se que você tenha instalado em 
 
 - Um editor de código (ex: [Visual Studio Code](https://code.visualstudio.com/))
 - [Node.js](https://nodejs.org/en/) instalado
-- Conhecimento básico de HTML
+- Conhecimento básico de HTML e CSS
 
 ---
 
 ## 🎨 Layout de Referência
 O layout que será reproduzido está disponível no Figma:
 
-🔗 Acessar Layout no Figma: [Protótipo](https://encr.pw/prototipo) [Imagens](https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
+🔗 Acessar Layout no Figma: [Protótipo]([https://encr.pw/prototipo](https://www.figma.com/design/OtrVtsqPMSOJFZx8qqkVWx/Layout-refer%C3%AAncia---Mini-curso-TailwindCSS?node-id=1-417)) [Imagens](https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
 
 ---
 
