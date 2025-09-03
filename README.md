@@ -27,7 +27,7 @@ Para acompanhar a atividade prática, recomenda-se que você tenha instalado em 
 ## 🎨 Layout de Referência
 O layout que será reproduzido está disponível no Figma:
 
-🔗 Acessar Layout no Figma: [Protótipo]([https://encr.pw/prototipo](https://www.figma.com/design/OtrVtsqPMSOJFZx8qqkVWx/Layout-refer%C3%AAncia---Mini-curso-TailwindCSS?node-id=1-417)) [Imagens](https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
+🔗 Acessar Layout no Figma: [Protótipo](https://www.figma.com/design/OtrVtsqPMSOJFZx8qqkVWx/Layout-refer%C3%AAncia---Mini-curso-TailwindCSS?node-id=1-417) [Imagens](https://drive.google.com/drive/folders/1rbDEZguk8qCNbmZuhqzdueOdPrFnV6J4?usp=sharing)
 
 ---
 
